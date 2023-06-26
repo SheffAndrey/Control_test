@@ -1,0 +1,16 @@
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\obj\Debug\net5.0\Контрльная работа первого блока.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\obj\Debug\net5.0\Контрльная работа первого блока.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\obj\Debug\net5.0\Контрльная работа первого блока.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\obj\Debug\net5.0\Контрльная работа первого блока.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\obj\Debug\net5.0\Контрльная работа первого блока.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\bin\Debug\net5.0\Контрльная работа первого блока.exe
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\bin\Debug\net5.0\Контрльная работа первого блока.deps.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\bin\Debug\net5.0\Контрльная работа первого блока.runtimeconfig.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\bin\Debug\net5.0\Контрльная работа первого блока.runtimeconfig.dev.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\bin\Debug\net5.0\Контрльная работа первого блока.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\bin\Debug\net5.0\ref\Контрльная работа первого блока.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\bin\Debug\net5.0\Контрльная работа первого блока.pdb
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\obj\Debug\net5.0\Контрльная работа первого блока.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\obj\Debug\net5.0\ref\Контрльная работа первого блока.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\obj\Debug\net5.0\Контрльная работа первого блока.pdb
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\Контрльная работа первого блока\obj\Debug\net5.0\Контрльная работа первого блока.genruntimeconfig.cache
